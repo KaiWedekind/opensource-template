@@ -1,9 +1,10 @@
-# Qualitylab
+# Open Source Library - Template
 
-[![Build Status](https://travis-ci.org/KaiWedekind/qualitylab.svg?branch=master)](build)
-[![GitHub issues](https://img.shields.io/github/issues/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/issues)
-[![GitHub forks](https://img.shields.io/github/forks/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/network)
-[![GitHub stars](https://img.shields.io/github/stars/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/KaiWedekind/qualitylab/master/LICENSE)
-[![version](https://img.shields.io/badge/npm-5.0.3-blue.svg)](package)
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)]()
+[![Travis](https://img.shields.io/travis/KaiWedekind/opensource-template.svg)]()
+[![Codecov](https://img.shields.io/codecov/c/github/KaiWedekind/opensource-template.svg)]()
+[![Issues](https://img.shields.io/github/issues/KaiWedekind/opensource-template.svg)](https://github.com/KaiWedekind/opensource-template/issues)
+[![Forks](https://img.shields.io/github/forks/KaiWedekind/opensource-template.svg)](https://github.com/KaiWedekind/opensource-template/network)
+[![Stars](https://img.shields.io/github/stars/KaiWedekind/opensource-template.svg)](https://github.com/KaiWedekind/opensource-template/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/KaiWedekind/opensource-template/master/LICENSE)
+[![Package](https://img.shields.io/badge/npm-5.0.3-blue.svg)](package)
+[![CodeOfConduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)]()

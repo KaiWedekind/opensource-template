@@ -1,7 +1,7 @@
 {
-  "name": "qualitylab",
+  "name": "opensource-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template to create an open source library in JavasSript",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -86,12 +86,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaiWedekind/qualitylab.git"
+    "url": "git+https://github.com/KaiWedekind/opensource-template.git"
   },
   "author": "Kai Wedekind <wedekind.kai@googlemail.com> (https://www.kaiwedekind.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KaiWedekind/qualitylab/issues"
+    "url": "https://github.com/KaiWedekind/opensource-template/issues"
   },
-  "homepage": "https://github.com/KaiWedekind/qualitylab#readme"
+  "homepage": "https://github.com/KaiWedekind/opensource-template#readme"
 }
