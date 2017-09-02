@@ -1,12 +1,9 @@
 # Qualitylab
 
-[![Build Status][build-badge]][build]
-[![version][version-badge]][package]
-[![MIT License][license-badge]][LICENSE]
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors)
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]][coc]
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
+[![Build Status](https://travis-ci.org/KaiWedekind/qualitylab.svg?branch=master)](build)
+[![GitHub issues](https://img.shields.io/github/issues/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/network)
+[![GitHub stars](https://img.shields.io/github/stars/KaiWedekind/qualitylab.svg)](https://github.com/KaiWedekind/qualitylab/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/KaiWedekind/qualitylab/master/LICENSE)
+[![version](https://img.shields.io/badge/npm-5.0.3-blue.svg)](package)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)]()
