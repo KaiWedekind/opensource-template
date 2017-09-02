@@ -1,5 +1,7 @@
 # Open Source Library - Template
 
+#### Template to create an open source library in JavasSript
+
 [![Travis](https://img.shields.io/travis/KaiWedekind/opensource-template.svg)]()
 [![Codecov](https://img.shields.io/codecov/c/github/KaiWedekind/opensource-template.svg)]()
 [![Issues](https://img.shields.io/github/issues/KaiWedekind/opensource-template.svg)](https://github.com/KaiWedekind/opensource-template/issues)
