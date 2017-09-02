@@ -8,9 +8,9 @@ notifications:
 node_js:
   - '6'
 script:
-  - yarn test
+  - npm run validate
 after_success:
-  - yarn run semantic-release
+  - 
 branches:
   only:
     - master
