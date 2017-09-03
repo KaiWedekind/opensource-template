@@ -1,6 +1,6 @@
 {
   "name": "opensource-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template to create an open source library in JavasSript",
   "main": "dist/index.js",
   "scripts": {
