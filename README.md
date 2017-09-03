@@ -38,10 +38,14 @@ npm install --save opensource-template
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<span align="center">
-    <img src="https://avatars0.githubusercontent.com/u/12070900?v=4&s=460" width="100px;"/><br />
-    <a href="https://www.kaiwedekind.com/" target="_blank">Kai Wedekind</a>
-</span>
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://avatars0.githubusercontent.com/u/12070900?v=4&s=460" width="100px;"/><br />
+            <sub><a href="https://www.kaiwedekind.com/" target="_blank">Kai Wedekind</a></sub>
+        </td>
+    <tr>
+</table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## LICENSE
