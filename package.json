@@ -4,10 +4,11 @@
   "description": "Template to create an open source library in JavasSript",
   "main": "dist/index.js",
   "scripts": {
+    "prepush": "npm run validate",
     "push": "git push",
     "commitmsg": "validate-commit-msg",
     "precommit": "npm run validate",
-    "commit": "git-cz",
+    "commit-m": "git-cz",
     "prebuild": "rimraf dist",
     "build": "npm-run-all --parallel build:*",
     "build:main": "babel --copy-files --out-dir dist --ignore *.test.js src",
