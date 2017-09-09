@@ -21,6 +21,7 @@
 You need a template to start a new open source library with JavaScript that uses travis ci for continuous delivery, mocha / chai for testing, webpack as module bundler and semantic-release for release versioning and can be distributed via npm.
 
 ## The Solution
+
 This repository is a ready to go setup to build your own library in JavaScript.
 
 ## Installation
