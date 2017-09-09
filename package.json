@@ -1,7 +1,7 @@
 {
-  "name": "opensource-template",
+  "name": "PROJECT",
   "version": "1.0.2",
-  "description": "Template to create an open source library in JavasSript",
+  "description": "DESCRIPTION",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
@@ -94,14 +94,6 @@
       "commit-msg": "validate-commit-msg"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KaiWedekind/opensource-template.git"
-  },
-  "author": "Kai Wedekind <wedekind.kai@googlemail.com> (https://www.kaiwedekind.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KaiWedekind/opensource-template/issues"
-  },
-  "homepage": "https://github.com/KaiWedekind/opensource-template#readme"
+  "author": "AUTHOR <EMAIL>",
+  "license": "MIT"
 }
