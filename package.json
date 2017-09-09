@@ -94,6 +94,14 @@
       "commit-msg": "validate-commit-msg"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "REPOSITORY"
+  },
   "author": "AUTHOR <EMAIL>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "BUGS"
+  },
+  "homepage": "HOMEPAGE"
 }
