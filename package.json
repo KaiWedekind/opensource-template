@@ -4,7 +4,6 @@
   "description": "Template to create an open source library in JavasSript",
   "main": "dist/index.js",
   "scripts": {
-    "prepush": "npm run validate",
     "push": "git push",
     "commitmsg": "validate-commit-msg",
     "precommit": "npm run validate",
