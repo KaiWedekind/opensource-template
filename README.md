@@ -38,7 +38,6 @@ npm install --save opensource-template
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <table>
     <tr>
         <td align="center">
@@ -47,11 +46,7 @@ npm install --save opensource-template
         </td>
     <tr>
 </table>
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## LICENSE
 
 MIT
-
-
-
